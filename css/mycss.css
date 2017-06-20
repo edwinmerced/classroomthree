@@ -22,7 +22,7 @@ padding-right: 3em;
               
           }
           .panel-default>.panel-heading {
-               background-color:#2886c3;
+               background-color:#D09A00;
                 background-image: url("../images/topography.svg");
               border-bottom-width: 0px;
               color:white;
@@ -36,7 +36,7 @@ padding-right: 3em;
 
           
           .btn-activity{
-              background-color:#2886c3;
+              background-color:#D09A00;
               background-image: url("../images/topography.svg");
               border-width: 0px;
               border-style:solid;
@@ -44,7 +44,7 @@ padding-right: 3em;
           }
           
           .btn-assess{
-              background-color:#2886c3;
+              background-color:#D03500;
               background-image: url("../images/topography.svg");
               border-width: 0px;
               border-style:solid;
