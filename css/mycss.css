@@ -57,3 +57,18 @@ padding-right: 3em;
     animation-delay: 1s;
           }
           
+
+#assess{
+      color:#16496a;
+      }
+          
+          .iconeffect:hover{
+              
+         opacity: .85;
+          }
+          
+          .navbar-nav li a {
+ line-height: 35px;
+}
+          
+          .blue-tooltip + .tooltip > .tooltip-inner {background-color: #D03500;}
