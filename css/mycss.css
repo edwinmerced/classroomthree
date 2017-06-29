@@ -72,3 +72,24 @@ padding-right: 3em;
 }
           
           .blue-tooltip + .tooltip > .tooltip-inner {background-color: #D03500;}
+          
+          
+          .panel-default>.panel-learn {
+              display: block;
+               background-color:#176b8d;
+                background-image: url("images/topography.svg");
+              border-bottom-width: 0px;
+              color:white;
+            padding: 1em 1em 1em;
+              cursor: pointer;
+          }
+      
+          a:active {
+  text-decoration: none;
+}
+
+                    a:hover {
+  text-decoration: none;
+}
+       a:hover{text-decoration: none !important}
+a{text-decoration: none !important}
